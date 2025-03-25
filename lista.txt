@@ -4,3 +4,4 @@
 4 - Pera
 5 - Beterraba
 6 - Manga
+7 - Morango
