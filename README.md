@@ -1,1 +1,1 @@
-Treinando comandos no git
+Descrição do meu projeto
