@@ -3,3 +3,4 @@
 3 - Uva
 4 - Pera
 5 - Beterraba
+6 - Manga
